@@ -1,2 +1,1 @@
-# vigilant-doodle
-stop
+# PRO-C175-Student-Boilerplate
